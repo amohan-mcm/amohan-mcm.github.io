@@ -27,11 +27,11 @@
 			width="100%" class="tableBorder">
 			<tr>
 				<td class = "label" bgcolor="#0066FF"><center><b>Dr. Mohan's Portfolio</b></center><br/>
-				<a href = "index.html" class = "label"><b>Biography</b></a> &nbsp;&nbsp;
-				<a href = "education.html" class = "label"><b>Education</b></a> &nbsp;&nbsp;
-				<a href = "work.html" class = "label"><b>Work</b></a>&nbsp;&nbsp;
-				<a href = "hobbies.html" class = "label"><b>Hobbies</b></a>&nbsp;&nbsp;
-				<a href = "contact.html" class = "label"><b>Contact</b></a>&nbsp;&nbsp;
+				<a href = "index.jsp" class = "label"><b>Biography</b></a> &nbsp;&nbsp;
+				<a href = "education.jsp" class = "label"><b>Education</b></a> &nbsp;&nbsp;
+				<a href = "work.jsp" class = "label"><b>Work</b></a>&nbsp;&nbsp;
+				<a href = "hobbies.jsp" class = "label"><b>Hobbies</b></a>&nbsp;&nbsp;
+				<a href = "contact.jsp" class = "label"><b>Contact</b></a>&nbsp;&nbsp;
 				</td>
 			</tr>
 			<tr>
